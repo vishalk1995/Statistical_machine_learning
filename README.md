@@ -1,4 +1,4 @@
-#Analysis of Machine Learning Algorithms For Histopathological Cancer Detection
+Analysis of Machine Learning Algorithms For Histopathological Cancer Detection
 
 One of the many great things about Machine learning research is that due to its
 inherent general nature, its probable applications is very extensive. One of the
